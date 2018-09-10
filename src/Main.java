@@ -1,5 +1,3 @@
-//TODO Create a Race class, store races in a file, when person uses an unstored Race, prompt them to save as new Race
-
 import java.util.Scanner;
 
 class Main {

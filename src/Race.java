@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Race {
+class Race {
 
     private double raceDistance;
     private double[] stopDistances;
